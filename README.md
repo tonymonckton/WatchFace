@@ -8,7 +8,7 @@ WatchFace subclasses UIView, and adds faces to a UIScrollView, it can have many 
 
 ### Image
 
-![alt text](http://www.tonymonckton.co.uk/github/watchface.png)
+![alt text](watchface.png)
 
 ### Gestures
 WatchFace has the following gestures
